@@ -1,1 +1,3 @@
 # Event-Based-Modeling-of-a-Manufacturing-System
+## Problem Statement:
+In a manufacturing system parts are being made at a rate of one every 6 minutes. They are two types A and B and are mixed randomly with about 10 percent of type B. A separate inspector is assigned to examine each type of parts. The inspection of a part takes a mean time of 4 minutes with a standard deviation of 2 minutes, but part B takes a mean time 20 minutes and a standard deviation of 10 minutes. Both inspectors reject about 10% of the parts they inspect. Simulate the system for total of 50 type A parts accepted and determine, idle time of inspectors and average time a part spends in system.
